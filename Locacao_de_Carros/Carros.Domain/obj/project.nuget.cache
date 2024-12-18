@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zEHcSkV5OBk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CASA\\OneDrive - ifsp.edu.br\\Engenharia de Computação\\programação orientada a eventos\\Locação de Carros\\Locadora_de_Carros\\Locacao_de_Carros\\Carros.Domain\\Carros.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CASA\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
